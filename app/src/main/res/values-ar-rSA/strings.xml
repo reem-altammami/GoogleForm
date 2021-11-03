@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoogleForm</string>
+    <string name="username_requerments">يمكنك استخدام الأحرف والأرقام والنقاط</string>
+    <string name="password_requirements_message">استخدام 8 أحرف أو أكثر باستعمال مزيج من الأحرف والأرقام والرموز</string>
+    <string name="create_your_google_account">إنشاء حساب لك على Google.</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="last_name">اسم العائلة</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="use_my_current_email_address_instead">استخدم عنوان بريدي الالكتروني بدلا من ذلك</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm">تأكيد</string>
+    <string name="show_password">عرض كلمة المرور</string>
+    <string name="sign_in_instead">تسجيل الدخول بدلا من ذلك</string>
+    <string name="next">التالي</string>
+</resources>

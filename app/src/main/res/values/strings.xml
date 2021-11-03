@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleForm</string>
+    <string name="username_requerments"><![CDATA[You can use letters, numbers & periods]]></string>
+    <string name="password_requirements_message"><![CDATA[Use 8 or more characters with a mix of letters, numbers & symbols]]></string>
+    <string name="create_your_google_account">Create your Google Account</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="username">Username</string>
+    <string name="use_my_current_email_address_instead">Use my current email address instead</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="show_password">Show password</string>
+    <string name="sign_in_instead">Sign in instead</string>
+    <string name="next">Next</string>
+</resources>
