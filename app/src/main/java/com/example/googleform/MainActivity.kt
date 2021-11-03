@@ -29,6 +29,10 @@ class MainActivity : AppCompatActivity() {
             val toast = Toast.makeText(this, "click neext", Toast.LENGTH_SHORT)
             toast.show()
         }
+//        binding.password.text=
+//        if (binding.showPassword.isChecked()){
+//            binding.password.setText(binding.password.text)
+//        }
 
 
 
